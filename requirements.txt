@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+mediapipe
+opencv-python
+matplotlib
+numpy
+glob
+Pillow
